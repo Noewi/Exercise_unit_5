@@ -1,0 +1,12 @@
+Commands for step 5:
+git init
+gid add White.txt.txt
+git commit -m "Commit for step 5"
+git push
+
+Commands for step 6:
+git init 
+git touch otro_archivo.txt
+git add otro_archivo.txt
+git commit -m "Commit for step 6"
+git push
